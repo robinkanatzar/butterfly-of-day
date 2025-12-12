@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "vanessa-atalanta",
+      "scientificName": "Vanessa atalanta",
+      "commonName": "Red Admiral",
+      "family": "Nymphalidae",
+      "heroImageUrl": "https://yourcdn.com/red-admiral.jpg",
+      "summary": "A bold, fast flyer often seen in gardens and along woodland edges.",
+      "quickFacts": [
+        "Wingspan: 50–65 mm",
+        "Larval host plants: nettles (Urtica)",
+        "Often migratory in Europe"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Vanessa_atalanta"
+    },
+    {
+      "id": "pieris-rapae",
+      "scientificName": "Pieris rapae",
+      "commonName": "Small White",
+      "family": "Pieridae",
+      "heroImageUrl": "https://yourcdn.com/small-white.jpg",
+      "summary": "A very common white butterfly found in gardens, fields, and parks.",
+      "quickFacts": [
+        "Wingspan: 32–47 mm",
+        "Larval host plants: cabbages and other brassicas",
+        "Multiple broods per year"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Pieris_rapae"
+    }
+  ]
+}
