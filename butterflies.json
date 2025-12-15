@@ -2,32 +2,144 @@
   "version": 1,
   "items": [
     {
-      "id": "vanessa-atalanta",
-      "scientificName": "Vanessa atalanta",
-      "commonName": "Red Admiral",
+      "id": "danaus-plexippus",
+      "scientificName": "Danaus plexippus",
+      "commonName": "Monarch Butterfly",
       "family": "Nymphalidae",
-      "heroImageUrl": "https://cdn.pixabay.com/photo/2023/06/20/20/34/butterfly-8077966_1280.jpg",
-      "summary": "A bold, fast flyer often seen in gardens and along woodland edges.",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2023/02/21/09/54/insect-7803881_1280.jpg",
+      "summary": "A famous orange-and-black butterfly known for its incredible long-distance migration.",
       "quickFacts": [
-        "Wingspan: 50–65 mm",
-        "Larval host plants: nettles (Urtica)",
-        "Often migratory in Europe"
+        "Wingspan: 89–102 mm",
+        "Larval host plants: milkweed (Asclepias)",
+        "Migrates up to 3,000 miles"
       ],
-      "learnMoreUrl": "https://en.wikipedia.org/wiki/Vanessa_atalanta"
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Danaus_plexippus"
+    },
+    {
+      "id": "vanessa-cardui",
+      "scientificName": "Vanessa cardui",
+      "commonName": "Painted Lady",
+      "family": "Nymphalidae",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2017/11/23/19/17/the-painted-lady-butterfly-2973483_1280.jpg",
+      "summary": "A highly adaptable butterfly with one of the widest distributions in the world.",
+      "quickFacts": [
+        "Wingspan: 50–70 mm",
+        "Larval host plants: thistles",
+        "Strong intercontinental migrant"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Vanessa_cardui"
     },
     {
       "id": "pieris-rapae",
       "scientificName": "Pieris rapae",
-      "commonName": "Small White",
+      "commonName": "Cabbage White",
       "family": "Pieridae",
-      "heroImageUrl": "https://cdn.pixabay.com/photo/2020/06/01/07/16/pieris-rapae-5245438_1280.jpg",
-      "summary": "A very common white butterfly found in gardens, fields, and parks.",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2023/09/05/23/00/butterfly-8235958_1280.jpg",
+      "summary": "A very common white butterfly frequently seen in gardens and farmland.",
       "quickFacts": [
-        "Wingspan: 32–47 mm",
-        "Larval host plants: cabbages and other brassicas",
-        "Multiple broods per year"
+        "Wingspan: 40–50 mm",
+        "Larval host plants: cabbages and mustards",
+        "Often considered a garden pest"
       ],
       "learnMoreUrl": "https://en.wikipedia.org/wiki/Pieris_rapae"
+    },
+    {
+      "id": "polyommatus-icarus",
+      "scientificName": "Polyommatus icarus",
+      "commonName": "Common Blue",
+      "family": "Lycaenidae",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2023/08/14/19/33/common-blue-8190641_1280.jpg",
+      "summary": "A small and delicate butterfly, with bright blue males and brown females.",
+      "quickFacts": [
+        "Wingspan: 30–40 mm",
+        "Larval host plants: legumes",
+        "Sexual dimorphism in coloration"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Polyommatus_icarus"
+    },
+    {
+      "id": "aglais-urticae",
+      "scientificName": "Aglais urticae",
+      "commonName": "Small Tortoiseshell",
+      "family": "Nymphalidae",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2021/08/29/18/57/small-tortoiseshell-6584040_1280.jpg",
+      "summary": "A colorful, sun-loving butterfly often seen basking in gardens.",
+      "quickFacts": [
+        "Wingspan: 45–60 mm",
+        "Larval host plants: nettles",
+        "Hibernates as an adult"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Aglais_urticae"
+    },
+    {
+      "id": "vanessa-atalanta",
+      "scientificName": "Vanessa atalanta",
+      "commonName": "Red Admiral",
+      "family": "Nymphalidae",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2018/10/17/15/31/butterfly-3754177_1280.jpg",
+      "summary": "A bold, strong-flying butterfly with striking red bands on dark wings.",
+      "quickFacts": [
+        "Wingspan: 60–70 mm",
+        "Larval host plants: nettles",
+        "Partial migrant in Europe"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Vanessa_atalanta"
+    },
+    {
+      "id": "aglais-io",
+      "scientificName": "Aglais io",
+      "commonName": "Peacock Butterfly",
+      "family": "Nymphalidae",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2023/04/15/08/52/butterfly-7927279_1280.jpg",
+      "summary": "A striking butterfly famous for its large eye spots used to deter predators.",
+      "quickFacts": [
+        "Wingspan: 50–60 mm",
+        "Larval host plants: nettles",
+        "Overwinters as an adult"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Aglais_io"
+    },
+    {
+      "id": "junonia-coenia",
+      "scientificName": "Junonia coenia",
+      "commonName": "Common Buckeye",
+      "family": "Nymphalidae",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2016/08/22/15/12/butterfly-1612180_1280.jpg",
+      "summary": "A brown butterfly with bold eye spots, often basking with wings fully open.",
+      "quickFacts": [
+        "Wingspan: 45–60 mm",
+        "Larval host plants: plantain and snapdragon",
+        "Seasonal northward movement"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Junonia_coenia"
+    },
+    {
+      "id": "colias-croceus",
+      "scientificName": "Colias croceus",
+      "commonName": "Clouded Yellow",
+      "family": "Pieridae",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2022/09/07/10/29/clouded-yellow-7438484_1280.jpg",
+      "summary": "A fast-flying yellow butterfly commonly seen in open countryside.",
+      "quickFacts": [
+        "Wingspan: 50–60 mm",
+        "Larval host plants: legumes",
+        "Strong migratory tendencies"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Colias_croceus"
+    },
+    {
+      "id": "heliconius-charithonia",
+      "scientificName": "Heliconius charithonia",
+      "commonName": "Zebra Longwing",
+      "family": "Nymphalidae",
+      "heroImageUrl": "https://cdn.pixabay.com/photo/2013/06/15/10/28/butterfly-139467_1280.jpg",
+      "summary": "A long-winged tropical butterfly known for slow flight and communal roosting.",
+      "quickFacts": [
+        "Wingspan: 70–100 mm",
+        "Feeds on nectar and pollen",
+        "Toxic to predators"
+      ],
+      "learnMoreUrl": "https://en.wikipedia.org/wiki/Heliconius_charithonia"
     }
   ]
 }
